@@ -7,4 +7,4 @@ $ g++ -o radiotde.o radiotde.c
 
 $ ./radiotde.o  
 
-[You will see the dialogue, and enter the cloud parameters and radio parameters in turn.]
+[You will see the dialogue. Please enter the cloud parameters and radio parameters in turn. ]
